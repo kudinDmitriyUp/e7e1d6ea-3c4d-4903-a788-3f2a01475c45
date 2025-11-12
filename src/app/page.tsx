@@ -44,7 +44,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroOverlay
-          title="Welcome to Your Dream Hotel"
+          title="Welcome to Your dream Hotel "
           description="Experience luxury hospitality in our beautifully appointed vintage hotel, where classic charm meets modern comfort"
           tag="The Heritage Hotel"
           tagIcon={Crown}
